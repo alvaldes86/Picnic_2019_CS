@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picnic_2019_CS", "Picnic_2019_CS\Picnic_2019_CS.csproj", "{170FF1A3-8A57-4AE9-8739-93D93E5F5DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170FF1A3-8A57-4AE9-8739-93D93E5F5DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170FF1A3-8A57-4AE9-8739-93D93E5F5DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170FF1A3-8A57-4AE9-8739-93D93E5F5DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170FF1A3-8A57-4AE9-8739-93D93E5F5DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA2133E4-A8A9-4972-8DFF-810D252931C9}
+	EndGlobalSection
+EndGlobal
